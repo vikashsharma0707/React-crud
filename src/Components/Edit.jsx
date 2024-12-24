@@ -53,7 +53,7 @@ const Edit=()=>{
         <input type="text" name="city"  value={input.city}  onChange={handleInput}/><br/><br/>
         <input type="text" name="subject"  value={input.subject}  onChange={handleInput}/><br/><br/>
         <button onClick={handleSubmit}>Submit</button>
-        <h1>Button</h1>
+        <h1>Button  good</h1>
         </>
     )
 }
