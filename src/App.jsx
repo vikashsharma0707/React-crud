@@ -11,7 +11,7 @@ import Layout from "./Layout";
 const App=()=>{
   return(
     <>
-    <h1>This is app page</h1>
+    <h1>This is app page  data</h1>
    
     
 
